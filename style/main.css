@@ -256,6 +256,7 @@ input[type="checkbox"] {
     border: #ddd 1px solid;
     border-radius: 10px;
     transition: box-shadow 0.3s ease, transform 0.2s ease;
+
 }
 
 .project:hover {
@@ -268,7 +269,7 @@ input[type="checkbox"] {
     width: 100%;
     height: 200px;
     object-fit: cover;
-    margin-top:-1rem;
+    margin-top: -1rem;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px
 }
@@ -361,7 +362,7 @@ input[type="checkbox"] {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 
 .form button {
